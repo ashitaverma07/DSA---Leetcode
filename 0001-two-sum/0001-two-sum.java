@@ -8,7 +8,7 @@ class Solution {
             } else {
                 numMap.put(nums[i], i);
             }
-        }
+        }}
         return new int[] {};
     }
 }
